@@ -7,16 +7,6 @@
 ## 🎯 Objetivo do Repositório
 Este repositório foi criado para documentar minha jornada de aprendizado com o **NumPy**, a biblioteca fundamental para computação científica em Python. Aqui, transformo conceitos teóricos (como a mágica do Broadcasting) em códigos práticos e explicados passo a passo.
 
-## 📂 Estrutura de Estudos
-
-Os estudos estão organizados em pastas (ou notebooks), seguindo uma curva de aprendizado:
-
-* **`/01_basico`**: Criação de Arrays (1D, 2D, 3D), `np.arange`, `np.zeros`, `np.ones`.
-* **`/02_inspecao`**: Entendendo dimensões, `.ndim`, `.shape`, `.size` e `.dtype`.
-* **`/03_broadcasting`**: A mágica do NumPy! As 3 regras de ouro para operar arrays de tamanhos diferentes sem usar loops `for`.
-* **`/04_manipulacao`**: Fatiamento (Slicing), indexação e reestruturação com `.reshape()` e `np.newaxis`.
-* **`/05_operacoes`**: Matemática básica, álgebra linear, estatística e filtros com máscaras booleanas.
-
 ---
 
 ## 💻 Como executar os códigos
